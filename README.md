@@ -107,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adarshraj29&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=adarshraj29&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -118,16 +118,18 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshraj29&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <a href="https://github.com/adarshraj29">
+    <img src="https://ghchart.rshah.org/6366f1/adarshraj29" alt="Adarsh Raj's Contribution Chart" width="95%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshraj29&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshraj29&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=adarshraj29&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=adarshraj29&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshraj29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adarshraj29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 </div>
